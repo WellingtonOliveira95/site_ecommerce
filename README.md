@@ -1,4 +1,5 @@
 ## Site E-commerce
+[![GitHub license](https://img.shields.io/github/license/WellingtonOliveira95/site_ecommerce)](https://github.com/WellingtonOliveira95/site_ecommerce/blob/main/LICENSE)
 
 ## Descrição:
 Site desenvolvido para exercicio proposto pelo professor, onde a ideia é que o site funcione como uma ferramenta de comercio online para a cidade de Matão/SP.
